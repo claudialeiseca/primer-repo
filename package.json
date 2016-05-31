@@ -1,0 +1,15 @@
+{
+  "name": "primer-repo",
+  "version": "1.0.0",
+  "description": "Mi primer repositorio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "htts://github.com/claudialeiseca/primer-repo.git"
+  },
+  "author": "Claudia Leiseca",
+  "license": "MIT"
+}
